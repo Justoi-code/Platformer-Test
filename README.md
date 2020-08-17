@@ -27,7 +27,9 @@ Objective - Just for fun, I added spikes for the player to avoid and jump around
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-My most prominent takeaways from this projects are the following:
+MOST PROMINENT TAKEAWAYS:
+--------------------------------------------------------------------------------------------------------------------------------------------
 - Implementing real life physical concepts into my program
 - Using PApplet to create graphics
 - Being able to translate programs between different IDEs that have different libraries
+--------------------------------------------------------------------------------------------------------------------------------------------
