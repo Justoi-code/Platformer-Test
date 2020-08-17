@@ -23,7 +23,7 @@ General Idea: This was mainly just a test (as said in the name "PlatformerTest")
 
 WASD Control -  The "W", "A", and "D" keys control the movement of the ball or "player" displayed on the screen (see the social preview for a quick peek at what the applet looks like). For example, pressing the left arrow key 
 
-Objective - Just for fun, I added spikes for the player to avoid and jump around (you "lose" if you touch them and have to restart the program). But again, the main purpose of the program is to test the movement I coded from scratch.
+Objective - Just for fun, I added moving spikes for the player to avoid and jump around (you "lose" if you touch them and have to restart the program). But again, the main purpose of the program is to test the movement I coded from scratch.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
