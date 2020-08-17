@@ -13,7 +13,7 @@ INSTRUCTIONS FOR INSTALLATION:
 4. Open BlueJ and open project (Ctrl + O) and open the folder you created with files in Step 2.
 5. This program uses libraries native to Eclipse so I included a .jar in the master called "processing-core-1.0.3__0.1.0.jar". At the top of BlueJ, navigated to Tools>Preferences>Libraries, click "Add File", then open the processing .jar file (should be in the folder you created in Step 2).
 6. Restart BlueJ
-7. Right click the module that appears that says "Game" and run "void main(String[] args)".
+7. Right click the module that appears that says "PlatformerTest" and run "void main(String[] args)".
 8. Enjoy!
 --------------------------------------------------------------------------------------------------------------------------------------------
 
