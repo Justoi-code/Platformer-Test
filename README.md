@@ -1,5 +1,5 @@
 # Platformer-Test
-My first ever graphics program I wrote in Java in a summer camp when I was in middle school.
+My first ever graphics program I wrote in Java in a summer camp when I was in middle school. **See the PNG attached for a preview.**
 I initially created this program in the Eclipse IDE (https://www.eclipse.org/oxygen/) but the posted files are a translated version run on BlueJ
 
 **SPECIAL NOTE: This project was made in the BlueJ IDE for Java so if you intend to try it yourself I recommend following the instructions for installation below. I will also include code.txt that contains all the code in text form if you just want to look at that. Lastly, please be mindful that there is a lot of garbage code I just commented out; they serve no importance to the game in its current state**
