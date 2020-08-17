@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PlatformerTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ settings()
+comment3.params=
+comment3.target=void\ setup()
+comment4.params=
+comment4.target=void\ draw()
+comment5.params=
+comment5.target=void\ scoring()
+comment6.params=
+comment6.target=void\ keyPressed()
+comment7.params=
+comment7.target=void\ keyReleased()
+comment8.params=
+comment8.target=int\ Time()
+comment9.params=
+comment9.target=int\ jumpTime()
+numComments=10
