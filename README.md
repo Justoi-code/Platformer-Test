@@ -4,7 +4,7 @@ I initially created this program in the Eclipse IDE (https://www.eclipse.org/oxy
 
 **SPECIAL NOTE: This project was made in the BlueJ IDE for Java so if you intend to try it yourself I recommend following the instructions for installation below. I will also include code.txt that contains all the code in text form if you just want to look at that. Lastly, please be mindful that there is a lot of garbage code I just commented out; they serve no importance to the game in its current state**
 
-**SPECIAL NOTE 2: This is summer camp project we were only allowed to work on for half a week. I want to leave it in its current state as much as I can even with the bugs because I feel this project was my launchpad towards pursuing Computer Science even with its imperfections. Bugs to take note of: Snapping to platforms if you jump directly under one and "floating" if you try to walk off a platform.**
+**SPECIAL NOTE 2: This is summer camp project we were only allowed to work on for half a week. I want to leave it in its current state as much as I can even with the bugs because I feel this project was my launchpad towards pursuing Computer Science. Bugs to take note of: Snapping to platforms if you jump directly under one and "floating" if you try to walk off a platform.**
 
 INSTRUCTIONS FOR INSTALLATION:
 --------------------------------------------------------------------------------------------------------------------------------------------
